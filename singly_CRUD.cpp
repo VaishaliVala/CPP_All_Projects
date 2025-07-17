@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// CRUD with 
+// CRUD with Singly linked list
 class Node {
 public:
     int data;
