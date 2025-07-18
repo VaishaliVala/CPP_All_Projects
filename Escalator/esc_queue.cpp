@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Example of Queue with Array 
 class Queue {
 private:
     int front, rear, cap;
