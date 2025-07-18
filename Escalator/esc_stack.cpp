@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// menu driven using Stack with Array
 class Stack {
 private:
     int top;
